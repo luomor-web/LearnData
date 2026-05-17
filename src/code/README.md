@@ -28,7 +28,7 @@ icon: fa6-solid:code
 
 ## IDE 编辑器
 
-- [Visual Studio Code](https://newzone.top/apps/tutorials/vscode.html)：本地代码编辑器首选，插件丰富，适应各种开发需求。
+- [Visual Studio Code](https://note.luomor.com/apps/tutorials/vscode.html)：本地代码编辑器首选，插件丰富，适应各种开发需求。
 
 - 在线 IDE：开箱即用，无需搭建环境，避免本地环境错误导致的各类 bug。
 

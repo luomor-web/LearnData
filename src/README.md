@@ -20,10 +20,10 @@ icon: fa6-solid:book-open-reader
 ## 文档与帮助
 
 - 📖 **完整搭建 / 配置 / 部署 / FAQ**：[LearnData GitHub README](https://github.com/rockbenben/LearnData#readme)
-- 🌐 **真实使用案例**：[newzone.top](https://newzone.top) —— 博主基于本模板搭建的个人博客
+- 🌐 **真实使用案例**：[newzone.top](https://note.luomor.com) —— 博主基于本模板搭建的个人博客
 - 🎯 **进阶心得**：
-  - [知识管理与搜索](https://newzone.top/posts/2024-01-28-learndata-advanced.html) —— 节点搜索、Quicker 一键定位、`article` 标签、双链反思
-  - [自动化脚本](https://newzone.top/posts/2026-03-05-learndata-scripts-llm-seo.html) —— SEO 审计、`llms.txt`、读书笔记侧边栏、Jules 定时维护
+  - [知识管理与搜索](https://note.luomor.com/posts/2024-01-28-learndata-advanced.html) —— 节点搜索、Quicker 一键定位、`article` 标签、双链反思
+  - [自动化脚本](https://note.luomor.com/posts/2026-03-05-learndata-scripts-llm-seo.html) —— SEO 审计、`llms.txt`、读书笔记侧边栏、Jules 定时维护
 
 ## 模板内容结构
 

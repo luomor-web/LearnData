@@ -10,7 +10,7 @@ icon: fa6-solid:check-to-slot
 
 ### 5AM Club
 
-5AM Club 是我的[高效早晨方案](https://newzone.top/posts/2023-03-31-efficient_morning_5am_club.html)：
+5AM Club 是我的[高效早晨方案](https://note.luomor.com/posts/2023-03-31-efficient_morning_5am_club.html)：
 
 1. 早上 5 点起床，使用手环震动闹钟。
 2. 泡杯咖啡，准备早餐，开始第一个工作番茄。
@@ -57,9 +57,9 @@ icon: fa6-solid:check-to-slot
 
 ### 自我监控
 
-为了更好地监督自己，我制定了一套[自我监控方案](https://newzone.top/posts/2022-05-22-surveillance_video_for_myself.html)，以记录自己的私人工作状态。
+为了更好地监督自己，我制定了一套[自我监控方案](https://note.luomor.com/posts/2022-05-22-surveillance_video_for_myself.html)，以记录自己的私人工作状态。
 
-1. 开机（8 点）启动录屏命令，并检测护眼提醒是否开启。可参考 [FFmpeg 录屏方案](https://newzone.top/posts/2022-11-03-ffmpeg_screen_recording.html)来修改命令：
+1. 开机（8 点）启动录屏命令，并检测护眼提醒是否开启。可参考 [FFmpeg 录屏方案](https://note.luomor.com/posts/2022-11-03-ffmpeg_screen_recording.html)来修改命令：
 
    ```bash
    ffmpeg -f gdigrab -r 0.1 -draw_mouse 1 -offset_x 0 -offset_y 0 -video_size 2560x1440 -i desktop -s 1280x720 -b:v 0 -crf 32 output.mp4 -f dshow -s 640x480 -i video='USB2.0 PC CAMERA' -filter_complex 'overlay=W-w-1:H-h-50' -y

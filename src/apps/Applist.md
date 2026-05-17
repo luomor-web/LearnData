@@ -23,7 +23,7 @@ Windows 自用软件，以开源软件为主。
 
 ## 平面设计
 
-设计：Figma & [SVG-Editor](https://github.com/SVG-Edit/svgedit) & [Stable Diffusion](https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html)（AI 绘图） & Photoshop & 字由 ~~& GIMP & FastStone & illustrator & Dreamweaver & lightroom~~
+设计：Figma & [SVG-Editor](https://github.com/SVG-Edit/svgedit) & [Stable Diffusion](https://note.luomor.com/posts/2022-09-05-stable_diffusion_ai_painting.html)（AI 绘图） & Photoshop & 字由 ~~& GIMP & FastStone & illustrator & Dreamweaver & lightroom~~
 
 截图：Snipaste & ShareX ~~& webshot & SETUNA~~
 
@@ -55,7 +55,7 @@ Windows 自用软件，以开源软件为主。
 
 按键可视化：[Carnac](https://github.com/Code52/carnac) & [Keyviz](https://github.com/mulaRahul/keyviz) & [ClickShow](https://github.com/cuiliang/ClickShow) & [KeyCastOW](https://github.com/brookhong/KeyCastOW)
 
-投屏工具：[scrcpy](https://newzone.top/posts/2019-08-26-scrcpy_screen_projection.html) (手机投屏) & [Macast](https://gitee.com/xfangfang/Macast/releases/)（手机视频投屏到电脑）& 蓝莓投屏
+投屏工具：[scrcpy](https://note.luomor.com/posts/2019-08-26-scrcpy_screen_projection.html) (手机投屏) & [Macast](https://gitee.com/xfangfang/Macast/releases/)（手机视频投屏到电脑）& 蓝莓投屏
 
 ## 效率工具
 
@@ -97,7 +97,7 @@ Windows 自用软件，以开源软件为主。
 
 通讯：微信 & TIM & Telegram & Discord & Thunderbird(邮箱) ~~& 飞书 & Slack & 钉耙 & 千牛 & 阿里旺旺~~
 
-下载：[Aria2](https://newzone.top/posts/2018-05-15-aria2_a_new_download_tool.html) & IDM & Kinhdown ~~& FDM(不支持 ed2k、磁力) & 迅雷~~
+下载：[Aria2](https://note.luomor.com/posts/2018-05-15-aria2_a_new_download_tool.html) & IDM & Kinhdown ~~& FDM(不支持 ed2k、磁力) & 迅雷~~
 
 杀毒：火绒 ~~& 360 & 金山卫士~~
 

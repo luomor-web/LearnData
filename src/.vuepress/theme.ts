@@ -5,10 +5,10 @@ import sidebar from "./sidebar.js";
 export default hopeTheme(
   {
     // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-    hostname: "https://newzone.top",
+    hostname: "https://note.luomor.com",
     author: {
       name: "LearnData",
-      url: "https://newzone.top",
+      url: "https://note.luomor.com",
     },
 
     favicon: "/favicon.ico",
@@ -77,7 +77,7 @@ export default hopeTheme(
       medias: {
         GitHub: "https://github.com/rockbenben",
         Zhihu: "https://www.zhihu.com/people/qingwhat",
-        少数派: { icon: "https://newzone.top/icons/sspai.svg", link: "https://sspai.com/u/zqj05i4v/posts" },
+        少数派: { icon: "https://note.luomor.com/icons/sspai.svg", link: "https://sspai.com/u/zqj05i4v/posts" },
         Wechat: "https://img.newzone.top/wechat.svg",
         Email: "mailto:learndata@newzone.top",
         Discord: "https://discord.gg/PZTQfJ4GjX",

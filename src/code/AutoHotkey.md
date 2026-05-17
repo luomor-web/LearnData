@@ -105,7 +105,7 @@ RunAs  ; 恢复为普通权限
 ;run 运行程序或者文档或其他
 !n::run notepad ;便捷呼出程序，「notepad」是「运行」对话框中的命令之一，所以不用完整路径
 Run, %A_WorkingDir%\xx.lnk ;启用当前目录中的文件
-Run, chrome.exe https://newzone.top/ ;指定浏览器打开链接。
+Run, chrome.exe https://note.luomor.com/ ;指定浏览器打开链接。
 Run, %A_ProgramFiles%\Some Application\App.exe, %A_ProgramFiles%\Some Application ;有些程序需要在它们自己的目录下运行。
 Run, "%A_ProgramFiles%\Google\Chrome\Application\chrome_proxy.exe --profile-directory=Default --app-id=xxxxxxxx" ;打开 Chrome 浏览器的内部应用，修改 app-id 即可
 
