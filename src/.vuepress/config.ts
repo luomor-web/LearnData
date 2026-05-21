@@ -30,7 +30,7 @@ export default defineUserConfig({
     // 谷歌分析
     googleAnalyticsPlugin({
       // 设置你的 Analytics ID
-      id: "	G-3PX4SD5VDY",
+      id: "G-3PX4SD5VDY",
     }),
   ],
   bundler: viteBundler(),
